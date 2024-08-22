@@ -71,3 +71,13 @@ print(a2.strip()) # returns "Hello, World!"
 a='utsav'
 result=a.capitalize()
 print(result)
+
+#count
+# Return the number of times the value "apple" appears in the string:
+
+# txt = "I love apples, apple are my favorite fruit"
+
+# x = txt.count("apple")
+# print(x)
+
+#https://www.w3schools.com/python/python_strings_methods.asp

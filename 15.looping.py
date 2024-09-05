@@ -12,11 +12,11 @@
 #     print(fruits[i])
 #     i=i+1
 
-for i in range(6):
-    print('hello')
+# for i in range(6):
+#     print('hello')
 
-for i in range(len(['a','b','c'])):
-    print(i)
+# for i in range(len(['a','b','c'])):
+#     print(i)
 
-p=range(5)
-print(type(p))
+# p=range(5)
+# print(type(p))

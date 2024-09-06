@@ -8,8 +8,8 @@
 # print(s1.name)
 
 
-class Student:
-    name="utsav kumar jha"
+# class Student:
+#     name="utsav kumar jha"
 
-s1=Student()
-print(s1.name)
+# s1=Student()
+# print(s1.name)
